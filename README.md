@@ -1,17 +1,18 @@
-Counter-Strike: Global Offensive 
+Najbolj popularni Youtube kanali
 ================================
 
-Analiziral bom ceno in druge atribute različnih (Counter-Strike: Global Offensive) skinov za virtualne puške na strani
-[Steam](https://steamcommunity.com/market/search?q=ak-47&category_730_ItemSet%5B%5D=any&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&category_730_Type%5B%5D=tag_CSGO_Type_Rifle&appid=730#p1_price_asc).
+Za vsak žanr bom zajel prvih 100 Youtube kanalov z največjim številom naročnikov.
+[Social Blade](https://socialblade.com/youtube/top/100/mostsubscribed).
 
-Za vsak skin bom zajel:
-* ceno z davkom in ceno brez davka
-* nalepke, ki so pritrjene na puško 
-* kakovost, barvni-index in izvor
-* število skinov, ki se trenutno prodajajo
-* zahteve za nakup
+Za vsak kanal bom zajel:
+* število naročnikov, objavljenih posnetkov in skupno število ogledov
+* povprečno denvno, tedensko in mesečno število pridobljenih naročnikov
+* povprečen mesečni in letni zaslužek
+
 
 Delovne hipoteze:
-* Koliko denarja zasluži Steam z davki?
-* Cena najdražjega in najcenejšega skina
-* Seznam skinov, ki se jih splača kupiti. (s katerimi profitiramo)
+* kakšen zaslužek prinese milijon ogledov?
+* najhitreje rastoči kanali
+* je število naročnikov povezano z zaslužkom?
+
+
