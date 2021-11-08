@@ -1,18 +1,18 @@
-Najbolj popularni Youtube kanali
-================================
+Magnus Carlsen (šahist)
+===================================
 
-Za vsak žanr bom zajel prvih 100 Youtube kanalov z največjim številom naročnikov.
-[Social Blade](https://socialblade.com/youtube/top/100/mostsubscribed).
+Zajel bom zadnjih 3000 partij Magnusa Carlsena s strani
+[Chess.com](https://www.chess.com/games/search?fromSearchShort=1&p1=Magnus%20Carlsen&page=1)
 
-Za vsak kanal bom zajel:
-* število naročnikov, objavljenih posnetkov in skupno število ogledov
-* povprečno denvno, tedensko in mesečno število pridobljenih naročnikov
-* povprečen mesečni in letni zaslužek
+Za vsako partijo bom zajel:
+* nasprotnika in njegov rating
+* rezultat
+* število potez
 
 
 Delovne hipoteze:
-* kakšen zaslužek prinese milijon ogledov?
-* najhitreje rastoči kanali
-* je število naročnikov povezano z zaslužkom?
+* koliko potez povprečno traja ena Magnusova partija?
+* koliko verjetno je, da bo Magnus zmagal/izgubil/remiziral z belimi/črnimi figurami
+* Proti katerim nasprotnikom je igral najbolje/najslabše?
 
 
