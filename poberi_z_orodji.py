@@ -79,7 +79,7 @@ for stran in range(STEVILO_STRANI):
         slovar_podatkov["rezultat"] = f"{seznam_rezultat[partija]}"
         slovar_podatkov["st_potez"] = int(seznam_st_potez[partija])
         slovar_podatkov["leto"] = int(seznam_let[partija])
-        slovar_podatkov["poteze"] = f"{seznam_st_potez[partija]}"
+        slovar_podatkov["poteze"] = f"{seznam_potez[partija]}"
         seznam_slovarjev.append(slovar_podatkov)
 
 
