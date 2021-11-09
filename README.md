@@ -6,8 +6,10 @@ Zajel bom zadnjih 3000 partij Magnusa Carlsena s strani
 
 Za vsako partijo bom zajel:
 * nasprotnika in njegov rating
-* rezultat
+* rezultat in leto
 * število potez
+* prve 3 poteze
+
 
 
 Delovne hipoteze:
@@ -16,3 +18,6 @@ Delovne hipoteze:
 * Proti katerim nasprotnikom je igral najbolje/najslabše?
 
 
+
+
+(OPOMBA: zamenjal sem temo naloge, zaradi dostopa podatkov)
